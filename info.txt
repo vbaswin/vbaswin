@@ -1,0 +1,5 @@
+// to get icons 
+https://github.com/devicons/devicon/tree/master/icons 
+
+// all the available achievements in github
+https://github.com/Schweinepriester/github-profile-achievements
