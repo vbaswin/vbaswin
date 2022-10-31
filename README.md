@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif">
+</div>
+
 - 👋 Hi, I’m @vbaswin
 - 👀 I’m interested in Web dev
 - 🌱 I’m currently learning Mongoose DB
