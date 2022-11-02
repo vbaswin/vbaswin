@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
   <img src="icons/vim-original.svg" height='50' weight='50'>
   <img src="icons/unrealengine-original-wordmark.svg" height='50' weight='50'>
   <img src="icons/ubuntu-plain-wordmark.svg" height='50' weight='50'>
-  <img src="icons/nodejs-original-workmark.svg" height='50' weight='50'>
+  <img src="icons/nodejs-original-wordmark.svg" height='50' weight='50'>
   <img src="icons/vscode-original-wordmark.svg" height='50' weight='50'>
   <img src="icons/xcode-original.svg" height='50' weight='50'>
   <img src="icons/github-original-wordmark.svg" height='50' weight='50'>
@@ -44,6 +44,4 @@ You can click the Preview link to take a look at your changes.
 
 ---
 <h3 align="center"> 🔥 My Stats : </h3>
-<p align="center">
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vbaswin)](https://git.io/streak-stats)
-</p>
