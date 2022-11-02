@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
   <img src="icons/css3-original-wordmark.svg" height='50' weight='50'>
   <img src="icons/debian-original-wordmark.svg" height='50' weight='50'>
   <img src="icons/express-original-wordmark.svg" height='50' weight='50'>
-  <img src="icons/gcc-original-wordmark.svg" height='50' weight='50'>
+  <img src="icons/gcc-original.svg" height='50' weight='50'>
   <img src="icons/bash-original.svg" height='50' weight='50'>
   <img src="icons/mongodb-original-wordmark.svg" height='50' weight='50'>
 </div>
