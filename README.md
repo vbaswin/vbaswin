@@ -4,7 +4,9 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
 
-- 👋 Hi, I’m @vbaswin
+### 👨🏻‍💻 About Me: 
+
+- 👋 Hi, I’m Aswin V B
 - 👀 I’m interested in Web dev
 - 🌱 I’m currently learning Mongoose DB
 - 💞️ I’m looking to collaborate on Font-End 
@@ -41,7 +43,9 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ---
+<p align="center">
 
-### 🔥 My Stats :
+<center><h3> 🔥 My Stats :</center>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vbaswin)](https://git.io/streak-stats)
+</p>
