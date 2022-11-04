@@ -99,7 +99,6 @@ You can click the Preview link to take a look at your changes.
 <div align='center'>
 
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswin-v-b-65426020a) &nbsp; &nbsp; 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vbaswin) &nbsp; &nbsp; 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aswinvb10a@gmail.com) &nbsp; &nbsp; 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/aswinvb2001)
 
