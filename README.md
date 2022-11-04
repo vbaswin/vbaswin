@@ -15,6 +15,7 @@ vbaswin/vbaswin is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 ---
+
 <div id="badges" align='center'>
   
   ## Languages
@@ -31,17 +32,17 @@ You can click the Preview link to take a look at your changes.
   <img src="icons/npm-original-wordmark.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/python-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
 
-  <br>
-  
+  <br> 
 
   ## FrameWorks
  
    
-  <br />
+  <br>
   <img src="icons/nodejs-original-wordmark.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/jquery-original-wordmark.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/express-original-wordmark.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/bootstrap.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
+  
   <br>
    
   ## OS
@@ -52,6 +53,7 @@ You can click the Preview link to take a look at your changes.
   <img src="icons/fedora-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/windows-10.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/ubuntu-plain-wordmark.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
+  
   <br>
   
   ## Tools 
@@ -68,9 +70,9 @@ You can click the Preview link to take a look at your changes.
   <img src="icons/figma-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/safari-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/chrome-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
+  
   <br>
 </div>
-<br>
 
 
 ---
