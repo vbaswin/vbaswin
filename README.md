@@ -4,7 +4,7 @@
 
 <br>
 
-##  ***Hi There*** &nbsp; <img src="giphy.gif" height='50' width='50'>
+##  ***Hi There !*** &nbsp; <img src="giphy.gif" height='50' width='50'>
 - 👨🏻‍💻 &nbsp;I’m **Aswin V B** 
 - 👀 &nbsp;Interested in **Web dev**
 - 🌱 &nbsp;Currently learning ***Mongoose***
