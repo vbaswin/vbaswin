@@ -32,6 +32,10 @@ You can click the Preview link to take a look at your changes.
   <img src="icons/css3-original-wordmark.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/bash-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/mongodb-original-wordmark.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="icons/java-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="icons/mysql-original-wordmark.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="icons/npm-original-wordmark.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="icons/python-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <br>
   
   ## FrameWorks
@@ -41,6 +45,7 @@ You can click the Preview link to take a look at your changes.
   <img src="icons/jquery-original-wordmark.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/nodejs-original-wordmark.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/express-original-wordmark.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="icons/bootstrap.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <br>
    
   ## OS
@@ -50,6 +55,7 @@ You can click the Preview link to take a look at your changes.
   <img src="icons/fedora-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/windows-10.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/ubuntu-plain-wordmark.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="icons/apple-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <br>
   
   ## Tools 
@@ -61,6 +67,11 @@ You can click the Preview link to take a look at your changes.
   <img src="icons/vscode-original-wordmark.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/xcode-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/github-original-wordmark.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="icons/figma-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="icons/heroku-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="icons/jupyter-original-wordmark.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="icons/safari-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="icons/chrome-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <br>
   
 </div>
