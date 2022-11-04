@@ -1,7 +1,5 @@
 <div id="header" align="center">
   <img src="profile.gif" height='300' width='300'><br>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
 
 <br>
@@ -86,3 +84,15 @@ You can click the Preview link to take a look at your changes.
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vbaswin)](https://git.io/streak-stats)<br>
   </div>
   
+---
+
+  
+## 🔗 &nbsp; My links
+<div align='center'>
+  <a href="https://github.com/vbaswin">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> </a>
+&nbsp; 
+  <a href="www.linkedin.com/in/aswin-v-b-65426020a">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+</div>
+
