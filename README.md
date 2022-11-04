@@ -44,4 +44,4 @@ You can click the Preview link to take a look at your changes.
 
 ---
 <h3 align="center"> 🔥 My Stats : </h3>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vbaswin)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vbaswin)](https://git.io/streak-stats)
