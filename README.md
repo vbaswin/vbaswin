@@ -30,8 +30,10 @@ You can click the Preview link to take a look at your changes.
   <img src="icons/mysql-original-wordmark.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/npm-original-wordmark.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/python-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
+
   <br>
   
+
   ## FrameWorks
  
    
@@ -67,8 +69,9 @@ You can click the Preview link to take a look at your changes.
   <img src="icons/safari-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/chrome-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <br>
-  
 </div>
+<br>
+
 
 ---
  <div align='center'>
