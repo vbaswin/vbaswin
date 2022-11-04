@@ -4,10 +4,11 @@
 
 <br>
 
-- 👋 ***Hi There*** , I’m **Aswin V B** 👨🏻‍💻
-- 👀 I’m interested in **Web dev**
-- 🌱 I’m currently learning ***Mongoose***
-- 💞️ I’m looking to collaborate on **Font-End**
+- 👋 ***Hi There***
+- 👨🏻‍💻 I’m **Aswin V B** 
+- 👀 Interested in **Web dev**
+- 🌱 Currently learning ***Mongoose***
+- 💞️ Looking to collaborate on **Font-End**
 
 <!---
 vbaswin/vbaswin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
