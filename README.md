@@ -6,7 +6,7 @@
 
 <br>
 
-### 👨🏻‍💻 About Me: 
+## 👨🏻‍💻 About Me: 
 
 <br>
 
@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 ---
 <div id="badges" align='center'>
   
-  ### Languages
+  ## Languages
   
   <br>
   <img src="icons/cplusplus-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; 
@@ -31,24 +31,27 @@ You can click the Preview link to take a look at your changes.
   <img src="icons/c-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; 
   <img src="icons/css3-original-wordmark.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; 
   <img src="icons/bash-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; 
-  <img src="icons/mongodb-original-wordmark.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; 
+  <img src="icons/mongodb-original-wordmark.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp;
+  <br>
   
-  ### FrameWorks
+  ## FrameWorks
  
    
   <br>
   <img src="icons/jquery-original-wordmark.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; 
   <img src="icons/nodejs-original-wordmark.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; 
-  <img src="icons/express-original-wordmark.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; 
+  <img src="icons/express-original-wordmark.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp;
+  <br>
    
-  ### OS
+  ## OS
   
   <br>
   <img src="icons/fedora-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; 
-  <img src="icons/linux-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; 
+  <img src="icons/windows-10.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; 
   <img src="icons/ubuntu-plain-wordmark.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; 
+  <br>
   
-  ### Tools 
+  ## Tools 
   
   <br>
   <img src="icons/maya-original-wordmark.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; 
@@ -64,7 +67,7 @@ You can click the Preview link to take a look at your changes.
 ---
  <div align='center'>
 
-  ### 🔥 My Stats : <br><br>
+  ## 🔥 My Stats : <br><br>
   
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbaswin)](https://github.com/anuraghazra/github-readme-stats)
