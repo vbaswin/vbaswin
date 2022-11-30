@@ -7,9 +7,9 @@
 
 ##  ***Hi There !*** &nbsp; <img src="giphy.gif" height='50' width='50'>
 - 👨🏻‍💻 &nbsp;I’m **Aswin V B** 
-- 👀 &nbsp;Interested in **Web dev**
-- 🌱 &nbsp;Currently learning ***Mongoose***
-- 💞️ &nbsp;Looking to collaborate on **Font-End**
+- 👀 &nbsp;Interested in C++ programming
+- 🌱 &nbsp;Currently learning Intermediate C++
+- 💞️ &nbsp;Looking to collaborate on C++ projects
 
 <!---
 vbaswin/vbaswin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
