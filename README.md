@@ -1,20 +1,23 @@
-<!-- holopin badges https://www.holopin.io/@vbaswin -->
+<div>
 
-##  ***Hi There !*** &nbsp; <img src="giphy.gif" height='50' width='50'>
+###  ***Hi There !*** &nbsp; 👋
 - 👨🏻‍💻 &nbsp;I’m **Aswin V B**
 - 👀 &nbsp;Interested in C++ programming
 - 🌱 &nbsp;Currently learning Intermediate C++
 - 💞️ &nbsp;Looking to collaborate on C++ & C projects
 
+</div>
+
 <!---
 vbaswin/vbaswin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
----
 
 <div id="badges" align='center'>
+  
+  <br>
 
-  ## Core Languages
+  ### Core Languages
 
   <br />
   <img src="icons/cplusplus-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
@@ -26,7 +29,7 @@ You can click the Preview link to take a look at your changes.
   <br>
   <br>
 
-  ## Core Tools
+  ### Core Tools
 
   <br>
   <img src="icons/vim-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
@@ -34,20 +37,15 @@ You can click the Preview link to take a look at your changes.
   <img src="icons/github-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <br>
   <br>
+  <br>
 </div>
 
-
----
  <div align='center'>
 
-  ## 🔥 My Stats : <br><br>
+  ### 🔥 My Stats <br><br>
 
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbaswin)](https://github.com/anuraghazra/github-readme-stats)
-
-  <br>
-
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vbaswin)](https://git.io/streak-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbaswin)](https://github.com/anuraghazra/github-readme-stats)     [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vbaswin)](https://git.io/streak-stats)
 
   <br>
   </div>
@@ -55,9 +53,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 
-## 🔗 &nbsp; My links
-
-<br>
+### 🔗 &nbsp; My links
 <div align='center'>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswin-v-b-65426020a) &nbsp; &nbsp;
