@@ -1,8 +1,3 @@
-<div id="header" align="center">
-  <img src="profile.gif" height='300' width='300'><br>
-</div>
-
-<br>
 <!-- holopin badges https://www.holopin.io/@vbaswin -->
 
 ##  ***Hi There !*** &nbsp; <img src="giphy.gif" height='50' width='50'>
@@ -19,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <div id="badges" align='center'>
 
-  ## Languages
+  ## Core Languages
 
   <br />
   <img src="icons/cplusplus-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
@@ -28,41 +23,15 @@ You can click the Preview link to take a look at your changes.
   <img src="icons/python-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/java-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/javascript-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="icons/html5-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="icons/css3-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="icons/mongodb-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <br>
   <br>
 
-  ## FrameWorks
-
-
-  <br>
-  <img src="icons/nodejs-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="icons/jquery-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="icons/express-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="icons/bootstrap.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
-  <br>
-  <br>
-
-  ## OS
-
-  <br>
-  <img src="icons/apple-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="icons/archlinux.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="icons/fedora-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="icons/ubuntu-plain.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="icons/windows-10.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
-  <br>
-  <br>
-
-  ## Tools
+  ## Core Tools
 
   <br>
   <img src="icons/vim-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/vscode-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/github-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="icons/maya-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <br>
   <br>
 </div>
