@@ -9,7 +9,7 @@
 - 👨🏻‍💻 &nbsp;I’m **Aswin V B**
 - 👀 &nbsp;Interested in C++ programming
 - 🌱 &nbsp;Currently learning Intermediate C++
-- 💞️ &nbsp;Looking to collaborate on C++ projects
+- 💞️ &nbsp;Looking to collaborate on C++ & C projects
 
 <!---
 vbaswin/vbaswin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,12 +24,12 @@ You can click the Preview link to take a look at your changes.
   <br />
   <img src="icons/cplusplus-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/c-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="icons/bash-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/python-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/java-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/javascript-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/html5-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/css3-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="icons/bash-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/mongodb-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <br>
   <br>
@@ -51,8 +51,8 @@ You can click the Preview link to take a look at your changes.
   <img src="icons/apple-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/archlinux.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/fedora-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="icons/windows-10.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/ubuntu-plain.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="icons/windows-10.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <br>
   <br>
 
