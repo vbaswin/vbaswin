@@ -60,10 +60,9 @@ You can click the Preview link to take a look at your changes.
 
   <br>
   <img src="icons/vim-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="icons/vscode-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/github-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="icons/maya-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="icons/unrealengine-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="icons/vscode-original.svg" height='50' weight='50'> &nbsp; &nbsp; &nbsp; &nbsp;
   <br>
   <br>
 </div>
