@@ -2,9 +2,9 @@
 
 ###  ***Hi There !*** &nbsp; 👋
 - 👨🏻‍💻 &nbsp;I’m **Aswin V B**
-- 👀 &nbsp;Interested in C++ programming
-- 🌱 &nbsp;Currently learning Intermediate C++
-- 💞️ &nbsp;Looking to collaborate on C++ & C projects
+- 👀 &nbsp;Interested in iOS development & C++ programming
+- 🌱 &nbsp;Currently learning iOS development
+- 💞️ &nbsp;Looking to collaborate on iOS, C++ & C projects
 
 </div>
 
