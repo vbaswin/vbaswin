@@ -44,8 +44,7 @@ You can click the Preview link to take a look at your changes.
 
   ### 🔥 My Stats <br><br>
 
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbaswin)](https://github.com/anuraghazra/github-readme-stats)     [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vbaswin)](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vbaswin)](https://git.io/streak-stats)
 
   <br>
   </div>
