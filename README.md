@@ -3,8 +3,8 @@
 ###  ***Hi There !*** &nbsp; 👋
 - 👨🏻‍💻 &nbsp;I’m **Aswin V B**
 - 👀 &nbsp;Interested in C++ programming & Software Development
-- 🌱 &nbsp;Currently strengthening my DSA
-- 💞️ &nbsp;Looking to collaborate on C++, C, dev projects
+- 🌱 &nbsp;Currently strengthening DSA, learning react
+- 💞️ &nbsp;Looking to collaborate on C++, android, react projects
 
 </div>
 
